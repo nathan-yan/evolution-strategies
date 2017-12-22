@@ -1,2 +1,2 @@
-# evolution-strategies
-Some implementations of Evolution Strategies (ES) on some RL problems. 
+# gradient-free-optimization
+Gradient Free Optimization techniques
